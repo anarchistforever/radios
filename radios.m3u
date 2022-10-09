@@ -1,5 +1,5 @@
 #EXTM3U radios alternativas
-#EXTINF:-1 tvg-logo="img/logos.png" group-title="estacion ciencia" audio-track="col",Science and Technology
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion ciencia" audio-track="col",Science and Technology
 http://stream.zeno.fm/gjgmji2u0gauv.m3u
 #EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="station-saxum" tvg-name="Station ",Station Saxum
 http://stream.zeno.fm/x4cuyhegckyvv.m3u
