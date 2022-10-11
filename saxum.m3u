@@ -1,6 +1,6 @@
 #EXTM3U radios alternativas
-#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion ciencia" audio-track="col",Science and Technology
-https://ia801506.us.archive.org/19/items/natiomus/natiomus.mp3
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion saxum" audio-track="col",radio saxum station 
+https://ia801502.us.archive.org/0/items/muspresentacion2/muspresentacion2.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="plan-ideal" tvg-name="Station ",plan-ideal
 https://ia601807.us.archive.org/4/items/plan-ideal-11h-00-programa-20-02-2021/Plan%20Ideal%2011h00%20Programa%2020%2002%202021.mp3
 #EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion ciencia" audio-track="col",Science and Technology
