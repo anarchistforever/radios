@@ -1,0 +1,15 @@
+#EXTM3U radios alternativas
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion ciencia" audio-track="col",Science and Technology
+https://ia801506.us.archive.org/19/items/natiomus/natiomus.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="plan-ideal" tvg-name="Station ",plan-ideal
+https://ia601807.us.archive.org/4/items/plan-ideal-11h-00-programa-20-02-2021/Plan%20Ideal%2011h00%20Programa%2020%2002%202021.mp3
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion ciencia" audio-track="col",Science and Technology
+https://ia801506.us.archive.org/19/items/natiomus/natiomus.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="Radio Babylonia" tvg-name="natio",Station Natio
+https://ia902205.us.archive.org/31/items/RADIOBABYLONIA_201405/RADIO%20BABYLONIA.mp3
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion ciencia" audio-track="col",Science and Technology
+https://ia801506.us.archive.org/19/items/natiomus/natiomus.mp3
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion ciencia" audio-track="col",la laguna
+https://ia802607.us.archive.org/2/items/PgmLn22-04-09/Laguna22DeAbril.mp3
+#EXTINF:-1 , latinoamerica vive
+https://ia800900.us.archive.org/27/items/PgmLatinoamericaVive12-01-09/Pgm12-01-09LatinoamericaVive.mp3
