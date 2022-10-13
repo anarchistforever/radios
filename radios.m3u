@@ -5,6 +5,11 @@ http://stream.zeno.fm/gjgmji2u0gauv.m3u
 http://stream.zeno.fm/x4cuyhegckyvv.m3u
 #EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="natio station" tvg-name="natio",Station Natio
 http://stream.zeno.fm/mfny1d4okmjuv.m3u
+#EXTINF:-1 radio natio github
+https://raw.githubusercontent.com/sciostation/radios/main/natio.m3u
+#EXTINF:-1
+
+#EXTINF:-1
 
 
 
