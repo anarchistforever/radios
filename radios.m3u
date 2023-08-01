@@ -1,31 +1,32 @@
 #EXTM3U radios alternativas
-#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="estacion ciencia" audio-track="col",Science and Technology
+#EXTINF:-1,tvg-logo="http://image.noelshack.com/minis /2017/02/1484272726-somafm.png" group-title="radio" radio="true",Groove Salad
+http://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="radio" radio="true",Science and Technology
 http://stream.zeno.fm/gjgmji2u0gauv.m3u
-#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="station-saxum" tvg-name="Station ",Station Saxum
+#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="radio" radio="true",Station Saxum
 http://stream.zeno.fm/x4cuyhegckyvv.m3u
-#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="natio station" tvg-name="natio",Station Natio
+#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station Natio
 http://stream.zeno.fm/mfny1d4okmjuv.m3u
-#EXTM3U http://radio.pervii.com/es/online-playlists-m3u.htm
-#PLAYLIST:Online radio: PUNK Music (www.radio.pervii.com)
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550162501.jpg" group-title="PUNK Radio - radio.pervii.com", REAL PUNK RADIO - 128 kbit/s
+
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550162501.jpg" group-title="radio" radio="true", REAL PUNK RADIO - 128 kbit/s
 http://149.56.155.73:8080/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1560873956.jpg" group-title="PUNK Radio - radio.pervii.com", Guerrilla Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1560873956.jpg" group-title="radio" radio="true", Guerrilla Radio - 128 kbit/s
 http://s2.stationplaylist.com:9460/guerrilla
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="PUNK Radio - radio.pervii.com", Skaworld - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="radio" radio="true",Skaworld - 128 kbit/s
 http://stream.laut.fm/skaworld
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/26707.jpg" group-title="PUNK Radio - radio.pervii.com", ANDYS 80S - The Rarest New Wave 80s Music - Make  REQUESTS at  ANDYS80S.com - Stream Live 24-7 - NewWaveZone.com - The 80s Channel - NO COMMERCIALS - NO TALK - Just Rare 80s Music! - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/26707.jpg" group-title="radio" radio="true",ANDYS 80S - The Rarest New Wave 80s Music - Make  REQUESTS at  ANDYS80S.com - Stream Live 24-7 - NewWaveZone.com - The 80s Channel - NO COMMERCIALS - NO TALK - Just Rare 80s Music! - 128 kbit/s
 http://209.9.238.4:9844
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1556637481.jpg" group-title="PUNK Radio - radio.pervii.com", Punk4Punks - 96 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1556637481.jpg" group-title="radio" radio="true",Punk4Punks - 96 kbit/s
 http://184.154.43.106:8072/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="PUNK Radio - radio.pervii.com", Absolute Alternative @ Distortion Radio [www.distortionradio.com] - 64 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="radio" radio="true",Absolute Alternative @ Distortion Radio [www.distortionradio.com] - 64 kbit/s
 http://s1.distortionradio.com:80/absolute-alternative-64
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="PUNK Radio - radio.pervii.com", Radio TranceDelica - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="radio" radio="true", Radio TranceDelica - 128 kbit/s
 http://radio-tochka.com:6440
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="PUNK Radio - radio.pervii.com", IpoRadio.com Live - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103925.jpg" group-title="radio" radio="true", IpoRadio.com Live - 128 kbit/s
 http://136.0.17.139:8000/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="PUNK Radio - radio.pervii.com", Laut.fm argebrat - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="radio" radio="true", Laut.fm argebrat - 128 kbit/s
 http://stream.laut.fm/argebrat
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1556547610.jpg" group-title="PUNK Radio - radio.pervii.com", Punkrockers Radio - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1556547610.jpg" group-title="radio" radio="true", Punkrockers Radio - 192 kbit/s
 http://stream.punkrockers-radio.de:8000/mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="PUNK Radio - radio.pervii.com", riotradio - 128 kbit/s
 http://stream.laut.fm/riotradio
